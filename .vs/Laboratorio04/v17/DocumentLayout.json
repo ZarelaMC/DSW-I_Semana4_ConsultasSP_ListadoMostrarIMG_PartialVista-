@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\views\\shared\\_productopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\views\\shared\\_productopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\views\\vendedor\\listadovendedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\views\\vendedor\\listadovendedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\views\\producto\\listadotablaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\views\\producto\\listadotablaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|c:\\users\\hp\\downloads\\ciclo v_2024-1\\1915 desarrollo de servicios web i\\sesi\u00F3n 4\\laboratorio04\\walistadovendedores\\views\\vendedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A595B2-5C25-4C2C-98C6-A04D25F1CD15}|waListadoVendedores\\waListadoVendedores.csproj|solutionrelative:walistadovendedores\\views\\vendedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Models\\Producto.cs",
+              "RelativeToolTip": "waListadoVendedores\\Models\\Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:25:14.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "waListadoVendedores\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:25:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "waListadoVendedores\\Controllers\\VendedorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:25:14.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "listadoVendedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Vendedor\\listadoVendedor.cshtml",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Views\\Vendedor\\listadoVendedor.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Vendedor\\listadoVendedor.cshtml",
+              "RelativeToolTip": "waListadoVendedores\\Views\\Vendedor\\listadoVendedor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:25:14.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\appsettings.json",
+              "RelativeDocumentMoniker": "waListadoVendedores\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\appsettings.json",
+              "RelativeToolTip": "waListadoVendedores\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T19:25:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductoPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Shared\\_ProductoPartial.cshtml",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Views\\Shared\\_ProductoPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Shared\\_ProductoPartial.cshtml",
+              "RelativeToolTip": "waListadoVendedores\\Views\\Shared\\_ProductoPartial.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwC4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:25:14.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listadoTablaProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "RelativeToolTip": "waListadoVendedores\\Views\\Producto\\listadoTablaProdutos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:25:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Models\\Vendedor.cs",
+              "RelativeToolTip": "waListadoVendedores\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:25:14.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Vendedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Views\\Vendedor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Vendedor\\Index.cshtml",
+              "RelativeToolTip": "waListadoVendedores\\Views\\Vendedor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:25:14.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "waListadoVendedores\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesi\u00F3n 4\\Laboratorio04\\waListadoVendedores\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "waListadoVendedores\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:25:14.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

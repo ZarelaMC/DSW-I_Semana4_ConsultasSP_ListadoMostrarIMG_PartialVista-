@@ -1,0 +1,54 @@
+﻿@model IEnumerable<waListadoVendedores.Models.Producto>
+
+
+<h1>Lista de produtos</h1>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Productos
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ide_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.des_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.pre_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.sac_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.smi_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.uni_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.fot_pro)</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.ide_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.des_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.pre_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.sac_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.smi_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.uni_pro)</th>
+                    <th>@Html.DisplayNameFor(model => model.fot_pro)</th>
+                </tr>
+            </tfoot>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.ide_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.des_pro)</td>
+                        <td>@item.pre_pro.ToString("0.00")</td>
+                        <td>@Html.DisplayFor(modelItem => item.sac_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.smi_pro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.uni_pro)</td>
+                        <td>
+                            <img style="width:60px; height:70px;"
+                                 src="~/img/@Url.Content(item.fot_pro)" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

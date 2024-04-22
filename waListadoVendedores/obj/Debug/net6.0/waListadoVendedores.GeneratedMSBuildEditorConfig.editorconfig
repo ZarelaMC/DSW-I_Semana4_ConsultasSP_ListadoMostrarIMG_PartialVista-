@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = waListadoVendedores
+build_property.RootNamespace = waListadoVendedores
+build_property.ProjectDir = C:\Users\HP\Downloads\CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 4\Laboratorio04\waListadoVendedores\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\Downloads\CICLO V_2024-1\1915 DESARROLLO DE SERVICIOS WEB I\Sesión 4\Laboratorio04\waListadoVendedores
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Producto/listadoTablaProdutos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cbGlzdGFkb1RhYmxhUHJvZHV0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/_LayoutPrincipal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQcmluY2lwYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/_PartialVendedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsVmVuZGVkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/_ProductoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0b1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Vendedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Vendedor/listadoVendedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3JcbGlzdGFkb1ZlbmRlZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Downloads/CICLO V_2024-1/1915 DESARROLLO DE SERVICIOS WEB I/Sesión 4/Laboratorio04/waListadoVendedores/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bndnir8kwd

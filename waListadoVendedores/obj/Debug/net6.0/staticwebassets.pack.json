@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\waListadoVendedores.bundle.scp.css",
+      "PackagePath": "staticwebassets\\waListadoVendedores.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoProducto\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoProducto\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\34.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\35.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\36.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\37.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\img\\FotoVendedor\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\FotoVendedor\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\CICLO V_2024-1\\1915 DESARROLLO DE SERVICIOS WEB I\\Sesión 4\\Laboratorio04\\waListadoVendedores\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.waListadoVendedores.props",
+      "PackagePath": "build\\waListadoVendedores.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.waListadoVendedores.props",
+      "PackagePath": "buildMultiTargeting\\waListadoVendedores.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.waListadoVendedores.props",
+      "PackagePath": "buildTransitive\\waListadoVendedores.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.waListadoVendedores.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
